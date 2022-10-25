@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oguzzbulutt, im student of Management Information Systems at Yasar University in IZMIR/TURKEY.
+- 👋 Hi, I’m @oguzzbulutt, im student of Management Information Systems 2/4
 - 👀 I’m interested in database, OOP.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java 
