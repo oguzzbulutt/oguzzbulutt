@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @oguzzbulutt
-- 👀 I’m interested in OOP
+- 👋 Hi, I’m @oguzzbulutt, im student of Management Information Systems at Yasar University in IZMIR/TURKEY.
+- 👀 I’m interested in database, OOP.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java 
-- 📫 You can reach me by bulutoguz@hotmail.com
 
 <!---
 oguzzbulutt/oguzzbulutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
