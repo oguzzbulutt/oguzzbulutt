@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oguzzbulutt, im student of Management Information Systems 2/4
 - 👀 I’m interested in database, OOP.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Web Scraping with python for Data science
 - 💞️ I’m looking to collaborate on Java 
 
 <!---
