@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oguzzbulutt, im student of Management Information Systems 2/4
+- 👋 Hi, I’m @oguzzbulutt, im student of Management Information Systems 3/4
 - 👀 I’m interested in database, OOP.
 - 🌱 I’m currently learning Web Scraping with python for Data science
 
